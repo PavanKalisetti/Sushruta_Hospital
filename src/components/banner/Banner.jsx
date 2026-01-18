@@ -9,11 +9,11 @@ const Banner = () => {
             <div className="banner-content">
 
                 <div className="banner-heading">
-                    <h2>Every good thing<br />starts with good<br />health</h2>
+                    <h2>Advanced Laparoscopic<br />Surgery & Gynaecology<br />Care</h2>
                 </div>
 
                 <div className="banner-subheading">
-                    <p>We are here to serve people with patient centered-care to deliver outstanding healthcare for better lives.</p>
+                    <p>Providing 24hr Emergency Services in Srikakulam with patient centered-care for better lives.</p>
                 </div>
 
                 <div className="banner-buttons">
