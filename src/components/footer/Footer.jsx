@@ -1,5 +1,5 @@
 import "./footer.css"
-import footerImage from "../../assets/images/footer logo.png"
+
 import ellipse4 from "../../assets/images/Ellipse 4.png"
 import ellipse5 from "../../assets/images/ellipse5.png"
 
