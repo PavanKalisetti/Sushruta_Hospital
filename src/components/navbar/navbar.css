@@ -7,9 +7,23 @@
     position: relative;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .logo>img {
-    width: 115px;
+    width: 80px;
     cursor: pointer;
+}
+
+.logo>h1 {
+    font-size: 24px;
+    color: #174EB2;
+    font-weight: 700;
+    cursor: pointer;
+    margin: 0;
 }
 
 .nav-links {
@@ -68,9 +82,11 @@
 .hamburger.open .line:nth-child(1) {
     transform: rotate(45deg) translate(5px, 5px);
 }
+
 .hamburger.open .line:nth-child(2) {
     opacity: 0;
 }
+
 .hamburger.open .line:nth-child(3) {
     transform: rotate(-45deg) translate(7px, -6px);
 }
@@ -79,9 +95,11 @@
     .nav-items {
         gap: 20px;
     }
+
     .nav-links {
         gap: 20px;
     }
+
     .navbar-container {
         padding: 0 20px;
     }
