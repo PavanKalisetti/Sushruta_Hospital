@@ -2,6 +2,8 @@
     display: flex;
     padding: 50px;
     background-color: rgba(62, 161, 255, 0.04);
+    min-height: 85vh;
+    align-items: center;
 }
 
 .banner-content {
@@ -61,24 +63,27 @@
 }
 
 .banner-graphic>img:last-child {
-    width: 800px;
+    width: 450px;
     position: absolute;
-    left: -180px;
+    left: -20px;
 }
 
 @media (max-width: 1024px) {
     .banner-content {
         padding: 0 30px;
     }
+
     .banner-heading>h2 {
         font-size: 42px;
     }
+
     .banner-graphic>img:first-child {
         width: 400px;
     }
+
     .banner-graphic>img:last-child {
-        width: 650px;
-        left: -150px;
+        width: 450px;
+        left: -40px;
     }
 }
 
