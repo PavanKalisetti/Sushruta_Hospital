@@ -1,5 +1,5 @@
 import "./footer.css"
-import footerImage from "../../assets/images/footer logo.png"
+
 import ellipse4 from "../../assets/images/Ellipse 4.png"
 import ellipse5 from "../../assets/images/ellipse5.png"
 
@@ -9,13 +9,13 @@ const Footer = () => {
             <div className="footer-container">
 
                 <div className="footer-logo">
-                    <img src={footerImage} alt="footer-logo" />
-                    <p>We aew a medicial clinic,<br />helping you for a better life.</p>
+                    <h2>Sushruta Hospital</h2>
+                    <p>We are a medical clinic,<br />helping you for a better life.</p>
                 </div>
 
                 <div className="footer-medic">
                     <ul className="footer-lists">
-                        <li>Medic</li>
+                        <li>Sushruta</li>
                         <li>Home</li>
                         <li>Medical Care</li>
                         <li>Medical Health</li>
@@ -27,7 +27,7 @@ const Footer = () => {
                 <div className="footer-about">
                     <ul className="footer-lists">
                         <li>About</li>
-                        <li>Medic</li>
+                        <li>Sushruta</li>
                         <li>Vision & Mission</li>
                         <li>Careers</li>
                         <li>Support</li>
@@ -47,9 +47,9 @@ const Footer = () => {
                 <div className="footer-contact">
                     <ul className="footer-lists">
                         <li>Contact</li>
-                        <li>Austin Texas, 4567 Road Palm</li>
-                        <li>+00 123 456 789</li>
-                        <li>medi@test.com</li>
+                        <li>Opp Dharamana TVS Showroom,<br />Day&Night Jn, Srikakulam</li>
+                        <li>9063 68 30 30 | 9063 69 30 30</li>
+                        <li>info@sushrutahospital.com</li>
                     </ul>
                 </div>
 
@@ -59,7 +59,7 @@ const Footer = () => {
             </div>
 
             <div className="footer-bottom">
-                <p>&copy; Medic 2028</p>
+                <p>&copy; Sushruta Hospital 2026</p>
                 <p>Legal Policies</p>
                 <p>Sitemap</p>
                 <p>Cookies</p>

@@ -1,5 +1,6 @@
 .services-container {
     background-color: rgba(62, 161, 255, 0.04);
+    padding-top: 80px;
 }
 
 .services-container>h3 {
