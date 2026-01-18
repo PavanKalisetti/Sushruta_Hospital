@@ -1,6 +1,6 @@
 import andrew from "./images/Dr Andrew.jpg"
-import michelle from "./images/Dr Michelle.jpg"
-import steve from "./images/Dr Steve.jpg"
+import michelle from "./images/Dr Michelle.png"
+import steve from "./images/Dr Steve.png"
 
 const doctors = [
     {
