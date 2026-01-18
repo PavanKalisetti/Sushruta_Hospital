@@ -17,7 +17,7 @@ const Banner = () => {
                 </div>
 
                 <div className="banner-buttons">
-                    <button className="banner-appointment-button">Request appointment</button>
+                    <button className="banner-appointment-button" onClick={() => window.open("https://wa.me/919989122023", "_blank")}>Request appointment</button>
                     <button className="banner-learn-button">Learn More</button>
                 </div>
 

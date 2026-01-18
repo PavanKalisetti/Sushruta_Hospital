@@ -14,7 +14,7 @@ const Testimonials = () => {
                 </div>
 
                 <div className="testimonial-details">
-                    <h6>Andrea Andy, 35</h6>
+                    <h6>Rajeev, 35</h6>
                     <p>"I had a great experience at this clinic. The doctors were knowledgable and caring"</p>
                 </div>
 
@@ -27,7 +27,7 @@ const Testimonials = () => {
                 </div>
 
                 <div className="testimonial-details">
-                    <h6>Ricky Reynold, 27</h6>
+                    <h6>Kusuma, 27</h6>
                     <p>"The clinic provided a comfortable and welcoming atmosphere."</p>
                 </div>
 
@@ -40,7 +40,7 @@ const Testimonials = () => {
                 </div>
 
                 <div className="testimonial-details">
-                    <h6>Grelish David, 30</h6>
+                    <h6>Rohith, 30</h6>
                     <p>"The treatments I received at this clinic were effective."</p>
                 </div>
 
