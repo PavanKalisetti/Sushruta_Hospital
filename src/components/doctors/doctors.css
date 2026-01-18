@@ -52,3 +52,12 @@
     color: #FFF;
     background-color: #174EB2;
 }
+
+@media (max-width: 480px) {
+    .doctors-wrapper {
+        padding: 20px;
+    }
+    .doctors-container>p {
+        padding: 0 20px;
+    }
+}
